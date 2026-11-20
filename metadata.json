@@ -1,0 +1,6 @@
+{
+  "name": "Freaitop",
+  "description": "A warranty vault built on Arc for locking seller deposits, filing verifiable buyer claims, and settling outcomes on-chain.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
